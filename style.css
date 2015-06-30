@@ -1,0 +1,124 @@
+.topimage{
+    margin-top: 60px;
+}
+
+
+.topimage img{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.gnav{
+    text-align: center;
+    display: block;
+    width: 900px;
+    height: 62px;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav li{
+    list-style-type: none;
+} 
+
+
+.gnav01 {
+    display: inline-block;
+    width: 100px;
+    margin-right: 20px;
+}
+.gnav01 a{
+    display: block;
+    width: 100px;
+}
+.gnav01 img{
+    border: none;
+}
+.gnav01 a:hover{
+    background: url("home.jpg") no-repeat;
+}
+.gnav01 a:hover img{
+    visibility: hidden;
+}
+
+.gnav02 {
+    display: inline-block;
+    width: 108px;
+     margin-right: 14px;
+}
+.gnav02 a{
+    display: block;
+}
+.gnav02 img{
+    border: none;
+}
+.gnav02 a:hover{
+    background: url("about.jpg") no-repeat;
+}
+.gnav02 a:hover img{
+    visibility: hidden;
+}
+
+.gnav03 {
+    display: inline-block;
+    width: 265px;
+     margin-right: 14px;
+}
+.gnav03 a{
+    display: block;
+}
+.gnav03 img{
+    border: none;
+}
+.gnav03 a:hover{
+    background: url("forcatslovers.jpg") no-repeat;
+}
+.gnav03 a:hover img{
+    visibility: hidden;
+}
+
+.gnav04 {
+    display: inline-block;
+    width: 205px;
+}
+.gnav04 a{
+    display: block;
+}
+.gnav04 img{
+    border: none;
+}
+.gnav04 a:hover{
+    background: url("catsgallary.jpg") no-repeat;
+}
+.gnav04 a:hover img{
+    visibility: hidden;
+}
+
+.mainimg{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    width: 700px;
+}
+
+#footer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100px;
+    color: white;
+    background-color: antiquewhite;
+}
+.cpr{
+    width: 200px;
+    height: 20px;
+     margin-left: auto;
+    margin-right: auto;
+    padding-top: 35px;
+    font-size: 11px;
+}
