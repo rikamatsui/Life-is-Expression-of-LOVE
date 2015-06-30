@@ -45,23 +45,7 @@ nav li{
     visibility: hidden;
 }
 
-.gnav02 {
-    display: inline-block;
-    width: 108px;
-     margin-right: 14px;
-}
-.gnav02 a{
-    display: block;
-}
-.gnav02 img{
-    border: none;
-}
-.gnav02 a:hover{
-    background: url("about.jpg") no-repeat;
-}
-.gnav02 a:hover img{
-    visibility: hidden;
-}
+
 
 .gnav03 {
     display: inline-block;
