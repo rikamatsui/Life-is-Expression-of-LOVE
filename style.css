@@ -88,10 +88,15 @@ h5{
     font-size: 13px;
     border: none;
     text-align: center; 
+    margin-top: 70px;
+    font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
+ sans-serif;
 }
 
 p{
-    margin: 2px;
+    margin: 7px;
+    font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
+ sans-serif;
 }
 
 .mainimg{

@@ -12,6 +12,18 @@
 }
 
 
+h5{
+    color: #6C7A89;
+    font-size: 17px;
+    border: none;
+    text-align: center; 
+    margin-top: 70px;
+    font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
+ sans-serif;
+}
+
+
+
 
 .gnav{
     text-align: center;
@@ -108,27 +120,52 @@ nav li{
     font-size: 11px;
 }
 
-h5{
-    color: #6C7A89;
-    font-size: 13px;
-    border: none;
-    text-align: center; 
-}
 
 p{
     margin: 2px;
+    font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
+ sans-serif;
 }
 
 #sample{
+    width: 800px;
     text-align: center;
+    margin: auto;
+    clear: both;
 }
 
 #sample img{
-    margin: 100px;
+    margin-top: 30px;
 }
 
-.bottom{
-    color: antiquewhite;
-    width: 900px;
-    height: 30px;
+.img01{
+    width: 300px;
+   float: left;
+    padding: 10px;
 }
+
+.img02{
+    width: 300px;
+   float: right;
+      padding: 10px;
+}
+
+h4{
+    font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
+ sans-serif;
+    color: dimgrey;
+}
+
+.bun01{
+    margin: auto;
+    width: 250px;
+    font-size: 11px;
+    color: dimgrey;
+    font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
+ sans-serif;
+}
+
+.clear_float{
+    clear: both;
+}
+

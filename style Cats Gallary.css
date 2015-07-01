@@ -112,10 +112,14 @@ h5{
     font-size: 13px;
     border: none;
     text-align: center; 
+    font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
+ sans-serif;
 }
 
 p{
     margin: 2px;
+    font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
+ sans-serif;
 }
 
 #sample{
@@ -124,10 +128,4 @@ p{
 
 #sample img{
     margin: 45px;
-}
-
-.bottom{
-    color: antiquewhite;
-    width: 900px;
-    height: 30px;
 }
