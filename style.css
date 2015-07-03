@@ -11,6 +11,13 @@
     margin-right: auto;
 }
 
+.topimage02 img{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
 .gnav{
